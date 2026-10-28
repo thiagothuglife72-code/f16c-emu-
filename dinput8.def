@@ -1,0 +1,6 @@
+EXPORTS
+    DirectInput8Create=proxy_DirectInput8Create @1
+    DllCanUnloadNow=proxy_DllCanUnloadNow @2
+    DllGetClassObject=proxy_DllGetClassObject @3
+    DllRegisterServer=proxy_DllRegisterServer @4
+    DllUnregisterServer=proxy_DllUnregisterServer @5
